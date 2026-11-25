@@ -90,7 +90,7 @@ body {
 }
 
 .hero {
-    background: linear-gradient(rgba(0, 31, 63, 0.56), rgba(0, 64, 128, 0.56)), 
+    background: linear-gradient(rgba(0, 31, 63, 0.55), rgba(0, 64, 128, 0.55)), 
                 url('Foto/lobi.jpeg');
     background-size: cover;
     background-position: center;
